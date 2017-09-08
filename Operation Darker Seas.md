@@ -1,6 +1,6 @@
 # Operation Darker Seas
 
-##Overview:
+## Overview:
 
 Under the crust of Europa, in it's deep seas, a large, unidentified object has been showing on deep sea monitoring equipment. Based on other sources of information, Firewall are concerned that this is a large and unregulated Artificial General Intelligence (AGI), built to primarily gather data from the deep seas but also shows faint energy signatures also corresponding to nano-fabrication processes. It is unknown if there are any restrictions to the use of any possible nano-fabrication units or what blueprints are available to the machine if any. However it can be assumed that the AGI could some day have full unrestricted access to the nano-fabrication and design processes. This is a cause for concern and investigation. 
 
@@ -26,9 +26,9 @@ Specialist aquatic electronics and morph shops are a speciality here, due to the
 
 Notable shops are: 
 
-* GoLow: A specialist in deep sea transportation vehicles and synth morphs
-* SHIP: A maker of biological morphs, that also does renting
-* Sepple: A maker of deep sea electronics devices
+* **GoLow**: A specialist in deep sea transportation vehicles and synth morphs
+* **SHIP**: A maker of biological morphs, that also does renting
+* **Sepple**: A maker of deep sea electronics devices
 
 These are the best but most expensive outlets for electronics and morphs. However there are a lot of cheaper outlets and some back ally shops with less than legal items for sale
 
@@ -36,11 +36,11 @@ As well as the Electronics and Morphs, there are a number of semi-famous establi
 
 Notable places for players may be:
 
-* Europa Museum: Home to some physical artefacts and some public data about the seas of Europa.
+* **Europa Museum**: Home to some physical artefacts and some public data about the seas of Europa.
 * Traders Hall: A large square where traders hawk wares of all kind.
-* The View: A large lit view of under the habitat showing the coral reef below.
-* Anchored Hotel: A hotel that protrudes in to the water. Also offers backup and resleving services to those who stay.
-* Mermaid Bay: A pleasure house, that insists on a old Earth medieval sea theme.
+* **The View**: A large lit view of under the habitat showing the coral reef below.
+* **Anchored Hotel**: A hotel that protrudes in to the water. Also offers backup and resleving services to those who stay.
+* **Mermaid Bay**: A pleasure house, that insists on a old Earth medieval sea theme.
 
 
 ### The Jobian Junta
